@@ -2,6 +2,15 @@
 
 Projeto de pesquisa de iniciação científica. 
 
+** Current work with Ana
+
+Current question: Understand dynamical systems in cosmology.
+Next action: Work through calculations involving geometry and scalar fields.
+
+** Working files
+
+- [[file:jupyter/notebooks.org][Calculation notebooks]]
+
 ** Bohmer - Dynamical systems in cosmology
 
 https://arxiv.org/abs/1409.5585v2
